@@ -6,6 +6,7 @@ public class RestAPITest {
 	@Test
 	public void restAPI() {
 		System.out.println("RestAPI");
+		System.out.println("RestAPI1");
 	}
 
 }
